@@ -1,0 +1,8 @@
+init: complete shop bot with catalog, admin panel, payments, promo codes, manual delivery
+
+- Full catalog with 100+ countries
+- CryptoBot, Stars, Yoomoney, manual payments
+- Admin panel: discount/markup/promo/custom delivery/broadcast
+- FSM states for admin inputs
+- Seed data for all countries from spec
+- Grid layout 3x4 with pagination and sorting
